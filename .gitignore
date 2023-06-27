@@ -1,0 +1,16 @@
+# .gitignore
+
+# dependencies
+/node_modules
+
+# builds
+/dist
+/.cache
+/.parcel-cache
+
+# debug
+/npm-debug.log*
+
+# environment
+/.env
+
