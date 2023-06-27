@@ -1,0 +1,2 @@
+# Leetcode-vanilla
+Vanilla example
